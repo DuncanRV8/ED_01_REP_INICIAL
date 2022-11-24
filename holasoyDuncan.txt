@@ -1,6 +1,6 @@
 Hola, GIT:
 
-Soy Sergio.
+Soy Sergio en realidad soy Duncan.
 
 Saludos humano.
 
