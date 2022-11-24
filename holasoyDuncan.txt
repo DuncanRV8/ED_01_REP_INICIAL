@@ -2,6 +2,6 @@ Hola, GIT:
 
 Soy Sergio.
 
-Saludos.
+Saludos humano.
 
 
